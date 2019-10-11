@@ -1,0 +1,8 @@
+Installation guide
+
+	*Run cmd
+	*Select a folder where the project will be hosted
+	*Clone/Download/Pull the latest version from the following link:
+	https://github.com/Kott1123/Cartesian_Coordinates
+
+type "pip install -U -r requirements.txt" at the command prompt
